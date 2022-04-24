@@ -1,0 +1,38 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+
+
+.main{
+  height: 30vh;
+  justify-content: center;
+  /* align-items: center;  */
+  display: flex;
+  
+}
+.rewad{
+ 
+  justify-content: center;
+  /* align-items: center;  */
+  display: flex;
+  margin-bottom: 10vh;
+
+}
+footer {
+  height: 10vh;
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  /* z-index: 10; */
+  position: fixed;
+  bottom: -30px;
+} 
+
+/* .butto Button{
+  margin: 10px;
+} */
+.linkbutton{
+  margin: 10px;
+  margin-bottom: 15px;
+}

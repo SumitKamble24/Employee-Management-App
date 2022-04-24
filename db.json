@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "name": "Sumit",
+      "last": "Kamble",
+      "gender": "Male",
+      "mobile": "",
+      "add": "K",
+      "email": "",
+      "id": 2
+    },
+    {
+      "name": "Sumit",
+      "last": "Kamble",
+      "gender": "",
+      "mobile": "",
+      "add": "",
+      "email": "",
+      "id": 3
+    },
+    {
+      "name": "Sumit",
+      "last": "kamble",
+      "gender": "Male",
+      "mobile": "844534684",
+      "add": "sdkdfnj",
+      "email": "smdkfiuha[",
+      "id": 4
+    },
+    {
+      "name": "Aniket ",
+      "last": "Kamble",
+      "gender": "Male",
+      "mobile": "95638789",
+      "add": "Krushna nagar wardha",
+      "email": "aniket",
+      "id": 7
+    },
+    {
+      "name": "harsh",
+      "last": "kdsfui",
+      "gender": "Male",
+      "mobile": "",
+      "add": "sdfsdfjoub",
+      "email": "jsdfnjn",
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

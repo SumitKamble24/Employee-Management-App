@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Header{
+    background-color: rgb(45, 44, 44);
+    
+    padding: 15px;
+
+}
+.Header h2{
+    color: rgb(251, 249, 247);
+}
+.footer{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  rgb(45, 44, 44);
+    color: aliceblue;
+    padding: 15px;
+}
+.createed{
+    margin: 10px;
+}
+.readeed{
+    margin: 10px;
+}
